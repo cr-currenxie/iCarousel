@@ -137,13 +137,6 @@
          location = "container:"
          name = "Swift Example">
          <FileRef
-            location = "group:Examples/Swift Example/SwiftExample.xcodeproj">
-         </FileRef>
-      </Group>
-      <Group
-         location = "container:"
-         name = "Swift3 Example">
-         <FileRef
             location = "group:Examples/Swift3 Example/SwiftExample.xcodeproj">
          </FileRef>
       </Group>
